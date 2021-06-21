@@ -1,0 +1,11 @@
+.text1:hover
+{
+    text-decoration: underline;
+}
+.text2:hover
+{
+    text-decoration: underline;
+}
+.text2{
+    margin-left: -1vw;
+}
